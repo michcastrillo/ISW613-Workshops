@@ -1,0 +1,15 @@
+.wrapper {
+    display: inline-block;
+    margin-left: 34px;
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    padding: 8px;
+    font-weight: bold;
+    margin-left: 31px;
+    font-size: 18px;
+}

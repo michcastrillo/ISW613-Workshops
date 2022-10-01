@@ -1,13 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import Head from './Header'
+import Personas from './Personas';
+import Universidades from './Universidades';
+import Cursos from './Cursos';
+import Tabla from './Tabla';
+import Footer from './Footer';
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Head/>
+    <Personas/>
+    <Universidades/>
+    <Cursos/>
+    <Tabla/>
+    <Footer />
   </React.StrictMode>
 );
 

@@ -1,0 +1,17 @@
+table {
+    margin-top: 25px;
+    margin-left: 12px;
+}
+
+th,
+tr,
+td {
+    border: 1px solid #f00;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+}
+caption{
+    font-size: 18px;
+    font-weight: bold;
+}
