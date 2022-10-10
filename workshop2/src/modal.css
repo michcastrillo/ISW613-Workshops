@@ -1,0 +1,10 @@
+.b_modal{
+    margin-left: 18px;
+}
+.i_modal{
+    display: block;
+}
+button {
+    border-color: red;
+    margin-left: 75px;
+}
