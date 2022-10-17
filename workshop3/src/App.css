@@ -1,0 +1,27 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: rgb(240, 214, 240);
+}
+ul {
+    list-style: none;
+}
+li{
+    display: inline-block;
+    margin-right: 2pc;
+}
+h2{
+    color:purple;
+    text-align: center;
+    font-size: 47px;
+    top: 223px;
+    position: relative;
+}
+nav{
+    width: 600px;
+    text-align: center;
+    background-color: rgb(240, 214, 240);
+}
